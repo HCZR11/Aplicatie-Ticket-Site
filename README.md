@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @HCZR11
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me horoiucezar@yahoo.com
+# Ticketing
 
-<!---
-HCZR11/HCZR11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FUNCTIONALITATE :
+
+-Autentificare cu nume de utilizator si parola
+- Selectarea tribunei:sectorului, randului si locului pe baza schitei de stadion in format grafic.
+- Posibilitatea cumpararii a mai multor bilete de o singura persoana
+- Introducerea datelor personale: Nume, Prenume, CNP, Email, telefon, FOTO si Poarta de acces
+- pretului de bilet pentru fiecare sector in parte
+- Data de incepere si finalizare a evenimentului
+- Stergerea unui bilet
+- Mutarea pe o „lista neagra” a unui abonament: nu mai are acces la meci
