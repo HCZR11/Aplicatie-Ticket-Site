@@ -5,7 +5,7 @@ from .forms import TicketForm, Stadion
 
 # Create your views here.
 def add_ticket(request):
-    if request.method == 'POST':
+    if request.method == 'GET':
         form = TicketForm(request.POST)
         if form.is_valid():
             ticket = form.save(commit=False)

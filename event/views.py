@@ -31,7 +31,7 @@ from ticketing import forms
 
 @login_required
 def create_event(request):
-    if request.method == 'POST':
+    if request.method == 'GET':
         form = EventForm(request.POST)
         if form.is_valid():
 
